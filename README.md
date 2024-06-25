@@ -7,3 +7,4 @@ Basic descriptive statistics about the books.
 Data cleaning
 Main question: does the length of the book determine how successful it will be?
 
+![Correlation Matrix](correlation.png)
